@@ -16,8 +16,8 @@ A simple 2D Car Race game built using **Phaser.js**, a powerful HTML5 game devel
 
 1. Clone or Download the repository:
    ```bash
-   git clone https://github.com/Bhavan-a-N/car-race.git
-   cd car-race
+   git clone https://github.com/Bhavan-a-N/car-game.git
+   cd car-game
    ```
 
 2. Open `index.html` directly in your browser:
